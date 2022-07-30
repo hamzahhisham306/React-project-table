@@ -1,0 +1,22 @@
+form{
+  padding-top: 100px;
+}
+.table{
+margin-top:  100px !important; 
+margin-bottom: 100px !important;
+}
+.table td{
+  color:#FF2442 !important ;
+}
+.table th{
+  color: #3DB2FF  !important;
+}
+body{
+  background-color:#FFEDDA ;
+}
+.navbar{
+  background-color: #3DB2FF !important;
+}
+button{
+  background-color: #3DB2FF !important;
+}
